@@ -1,4 +1,7 @@
 _site
-assets/bigpublpics/Orig/
-Gemfile.lock
-assets/favicon/*.ico
+.sass-cache
+.jekyll-metadata
+.idea
+.DS_Store
+node_modules
+npm-debug.log
