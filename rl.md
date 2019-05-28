@@ -1,6 +1,6 @@
 Reinforcement Learning Resources
 ===
-Curtesey of Zach Zhao.
+Courtesy of Zach Zhao.
 
 ## Software
 
