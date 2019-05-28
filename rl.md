@@ -27,3 +27,4 @@ The following is an example.
 
 Read [this introduction](https://int8.io/monte-carlo-tree-search-beginners-guide/) to Monte Carlo search tries, and make sure you can parse through [this implementation](http://mcts.ai/code/python.html).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lhFXKNyA0QA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
