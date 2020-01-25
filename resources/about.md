@@ -2,4 +2,4 @@ Image
 ===
 An image of me.
 
-![](https://imgur.com/a/dQUKtyM)
+![](https://i.imgur.com/aZNF3VM.png)
