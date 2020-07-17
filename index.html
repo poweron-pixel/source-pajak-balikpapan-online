@@ -13,8 +13,8 @@
     n =  new Date();
     m = n.getMonth() - 6;
     d = n.getDate() - 12;
-    h = (n.getHours() - 23)%24
-    min = (n.getMinutes() - 45)%60
+    h = n.getHours()
+    min = (n.getMinutes() + 15)%60
     document.body.innerHTML = "<h1>dating for " + m + " months, " + d + " days, " + h + " hours, and " + min + " minutes</h1>"
 </script>
 
