@@ -45,8 +45,8 @@ $background-alt: #f2f2f5;
 $border: #dcd9d9;
 
 // Define text colors
-$heading: #374054;
-$text: #74808a;
+$heading: #222327;
+$text: #020202;
 
 /*
     ---------------------
@@ -457,6 +457,13 @@ footer {
         color: $text;
         margin: 0;
     }
+
+    .intro-image{
+        img {
+            width: 300px;
+        }
+
+    }
 }
 
 /*
@@ -472,6 +479,19 @@ footer {
 
     h2 {
         color: $heading;
+    }
+
+    
+    .exp-image{
+        float: left;
+        padding-top: 15px;
+        img{
+            width: 75px;
+        }
+    }
+    
+    .exp-desc{
+        margin-left: 100px;
     }
 }
 
@@ -503,6 +523,9 @@ footer {
         top: 100%;
         left: 303px;
     }
+
+
+
 }
 
 .vtimeline-content {
@@ -515,7 +538,7 @@ footer {
 
     h3 {
         font-size: 1.5em;
-        font-weight: 300;
+        font-weight: 500;
         color: $heading;
         display: inline-block;
         margin: 0;
@@ -523,7 +546,7 @@ footer {
 
     h4 {
         font-size: 1.2em;
-        font-weight: 300;
+        font-weight: 350;
         color: $heading;
         margin: 0 0 15px 0;
     }
@@ -533,6 +556,7 @@ footer {
         font-size: 0.9em;
         margin: 0;
     }
+
 }
 
 .vtimeline-point {
@@ -566,8 +590,8 @@ footer {
     position: absolute;
     left: 0;
     top: 10px;
-    font-weight: 300;
-    color: #374054;
+    font-weight: 500;
+    color: #363232;
 }
 
 /*
