@@ -20,5 +20,6 @@ I have a poor record with New Year's resolutions. I trust that nailing them to t
 8. Sleep on a consistent schedule, deviating at most once a week.
 9. Learn to sing harmony.
 10. Abandon Coke.
+11. Bench 225 for 10 reps.
 
 Wish me luck.
