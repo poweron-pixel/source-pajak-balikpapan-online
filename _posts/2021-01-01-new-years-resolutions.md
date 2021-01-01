@@ -11,15 +11,14 @@ I have a poor record with New Year's resolutions. I trust that nailing them to t
 #### 2021 Resolutions
 
 1. Put half my income each month in a savings account.
-2. Find a meaningful summer internship; recruit early for the fall.
+2. Find a meaningful summer internship; start recruiting in March for the fall.
 3. Blog twice a month about my readings, projects, and thoughts.
 4. Read three books each month, exploring new subjects.
-5. Spend more time with family before college.
+5. Spend thirty minutes a day talking to family.
 6. Practice gratitude in my morning meditations.
 7. Stop biting my goddamn nails.
 8. Sleep on a consistent schedule, deviating at most once a week.
-9. Learn to sing harmony.
 10. Abandon Coke.
-11. Bench 225 for 10 reps.
+10. Bench 225 for 10 reps.
 
 Wish me luck.
