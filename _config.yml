@@ -17,9 +17,9 @@ title: Peter Zhang
 description: Welcome to my site! Here, I post my thoughts and projects. You can also find my resume and experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peterzhang.info/" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: portfolio # the GitHub repo name for your project
-github_username: petezh
 
+# Set social IDs here
+github: petezh
 linkedin: pjz
 facebook: petejzh
 twitter: petejzh
