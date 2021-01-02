@@ -164,15 +164,6 @@
   .ml-lg-4 { margin-left: $spacer-4; }
 }
 
-// Fade in
-.fade-in {
-  animation: fadeIn ease 1s;
-}
-@keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
-}
-
 // Link styles for social icons
 .link-social {
   text-decoration: none;
