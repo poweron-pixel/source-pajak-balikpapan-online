@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Decision-Making"
-date:   2021-1-5
+date:   2021-1-3
 categories: writing
 permalink: "/decision-making"
 ---
