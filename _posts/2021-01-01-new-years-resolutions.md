@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "Resolutions"
+title:  "2021 Resolutions"
 date:   2021-1-1
 categories: writing
 permalink: "/2021-resolutions"
