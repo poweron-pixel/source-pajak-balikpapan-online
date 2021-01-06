@@ -271,6 +271,7 @@ The analysis was subject to several limitations:
 - The test data were only available at the state level, so the models may have failed to fully control for testing rates.
 - Many demographic features used 2010 Census data, which may not reflect the current state of the country.
 - Some data seemed to misreport cases or deaths, resulting decreases in cumulative case counts. These were included for comprehensiveness, but may have skewed the results.
+- Normality and homoscedasticity were assumed for the data, but that assumption may be inaccurate, particularly for the household size and latitude variables.
 
 There are several avenues for future research:
 
