@@ -20,11 +20,11 @@ I take three main lessons:
 
 These ideas aren't revolutionary.[^2] They also aren't communicated very well. The themes are muddled by loosely connected asides and imprecise word choice. His references to Bukowski, Onoda, and the Holocaust survivors were out of place (the failure of the Holocaust survivors... to not get caught... was good?). Manson never clarifies the relationship between "pleasure," "pain," "happiness," "suffering," and "meaning," which causes several confusing passaging. The book leaves me with a vague, uplifting feel, but without a clear narrative or a lexicon to convey the ideas.
 
-The content glorifies individualism and agency. Manson spends several chapters railing against "victimhood" and "entitlement," apparently taking jabs at both sides of the political aisle. But never does he explain the proper role of politics. Can I blame the president for ruining the environment, or is that also "victimhood"? The book also implies that depression is failures of the will, rather than a biological illnesses[^3], which is counterproductive and demeaning. He even derides an unconvinced father whose son had recently died as simply irrational; apparently, his anger and grief were "his choice." I found that utterly unconvincing.
-
-The following my chapter-by-chapter notes on the book. I suffer from literature irretention: books filter into one eye socket and come out the other (does the phrase work?). Last weekend, my friend TJ suggested that I take notes on books and I decided to give it a try. I hope they are helpful.
+I also take issue with the content. The book glorifies individualism and agency. Manson spends several chapters railing against "victimhood" and "entitlement," apparently taking jabs at both sides of the political aisle. But never does he explain the proper role of politics. Can I blame the president for ruining the environment, or is that also "victimhood"? The book also implies that depression is failures of the will, rather than a biological illnesses[^3], which is counterproductive and demeaning. He even derides an unconvinced father whose son had recently died as simply irrational; apparently, his anger and grief were "his choice." I found that utterly unconvincing.
 
 ### Notes
+
+The following my chapter-by-chapter notes on the book. I suffer from literature irretention: books filter into one eye socket and come out the other (does the phrase work?). Last weekend, my friend TJ suggested that I take notes on books and I decided to give it a try. I hope they are helpful.
 
 #### Don't Try
 
