@@ -6,9 +6,9 @@ categories: writings
 permalink: "/subtle-art"
 ---
 
-## Review
-
 [![](/resources/subtleart.png)](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_2?crid=32FEWMTAXWOFM&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1609970899&sprefix=the+subtle%2Caps%2C239&sr=8-2)
+
+## Review
 
 Mark Manson's *The Subtle Art of Not Giving a F\*ck* is a good casual read packed with anecdotes about living a happier life. As you probably guessed from the title, the writing is conversational and flows well. The content provokes you to consider connections to your own life.
 
