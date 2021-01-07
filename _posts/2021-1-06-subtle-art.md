@@ -1,7 +1,7 @@
 ---
 layout: category-post
-title:  "Subtle Art Notes"
-date:   2020-1-6
+title:  "The Subtle Art"
+date:   2021-1-6
 categories: writings
 permalink: "/subtle-art"
 ---
