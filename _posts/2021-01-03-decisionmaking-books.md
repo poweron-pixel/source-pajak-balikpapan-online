@@ -2,7 +2,7 @@
 layout: category-post
 title:  "Decision-Making"
 date:   2021-1-3
-categories: writing
+categories: books
 permalink: "/decision-making"
 ---
 

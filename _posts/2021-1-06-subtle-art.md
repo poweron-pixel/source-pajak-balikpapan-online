@@ -2,7 +2,7 @@
 layout: category-post
 title:  "The Subtle Art"
 date:   2021-1-6
-categories: writings
+categories: books
 permalink: "/subtle-art"
 ---
 
