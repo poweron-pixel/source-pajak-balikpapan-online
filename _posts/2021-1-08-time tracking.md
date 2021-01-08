@@ -12,7 +12,7 @@ Hey chump. You feeling inefficient? Overwhelmed? A little bit of both?
 
 It's hard to be productive. Like a tennis machine, technology-powered society constantly pelts us with distractions and temptations. Wading through your daily to-do list can be a daunting challenge.
 
-Let's suppose that you nevertheless manage to succeed. There's a good chance you're still unhappy. Productivity tips, alarm clocks, and Gog mentality can only help you do more things, more efficiently. It won't help you allocate your time where you really want it; it definitely won't help you achieve balance and avoid burnout.
+Let's suppose that you nevertheless manage to succeed. There's a good chance you're still unhappy. Productivity tips, alarm clocks, and dog mentality can only help you do more things, more efficiently. It won't help you allocate your time where you really want it; it definitely won't help you achieve balance and avoid burnout.
 
 In June of last year, I faced that exact predicament. In search of productivity tips, I stumbled on a lifestyle-changing [blog post](http://www.jamesmaa.com/2012/12/02/james-maas-productivity-hacking-guide/) by James Ma. The post outlines a lot of instructions for living a better life, and one of them is to track your time. I've followed through religiously on this advice, and I suggest you do too.
 
