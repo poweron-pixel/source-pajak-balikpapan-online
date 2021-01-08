@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Peter Zhang
-description: Welcome to my site! Check out my projects, witings, and resume.
+description: Welcome to my site! Check out my projects, recent reads, and writings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peterzhang.info/" # the base hostname & protocol for your site, e.g. http://example.com
 
