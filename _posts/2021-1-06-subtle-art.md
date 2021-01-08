@@ -8,7 +8,7 @@ permalink: "/subtle-art"
 
 [![](/resources/subtleart.png)](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_2?crid=32FEWMTAXWOFM&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1609970899&sprefix=the+subtle%2Caps%2C239&sr=8-2)
 
-## Review
+### Review
 
 Mark Manson's *The Subtle Art of Not Giving a F\*ck* is a good casual read packed with anecdotes about living a happier life. As you probably guessed from the title, the writing is conversational and flows well. The content provokes you to consider connections to your own life.
 
@@ -22,11 +22,11 @@ These ideas aren't revolutionary.[^2] They also aren't communicated very well. T
 
 I also take issue with the content. The book glorifies individualism and agency. Manson spends several chapters railing against "victimhood" and "entitlement," apparently taking jabs at both sides of the political aisle. But never does he explain the proper role of politics. Can I blame the president for ruining the environment, or is that also "victimhood"? The book also implies that depression is failures of the will, rather than a biological illnesses[^3], which is counterproductive and demeaning. He even derides an unconvinced father whose son had recently died as simply irrational; apparently, his anger and grief were "his choice." I found that utterly unconvincing.
 
-## Notes
+### Notes
 
 The following my chapter-by-chapter notes on the book. I suffer from literature irretention: books filter into one eye socket and come out the other (does the phrase work?). Last weekend, my friend TJ suggested that I take notes on books and I decided to give it a try. I hope they are helpful.
 
-### Don't Try
+#### Don't Try
 
 Throughout his life, Charles Bukowski was a personal failure, chronically drunk and ill-tempered. Although he defied expectations and became a renowned author, his tombstone reads: "Don't try."
 
@@ -44,7 +44,7 @@ Not giving a fuck about pain and failure unlocks your personal growth. Not givin
 
 Of course, learning the art will not stop the suffering. What it may do is to help you find meaning.
 
-### Happiness is a Problem
+#### Happiness is a Problem
 
 After years of travel and 49 days of meditation, the Buddha reached a truth: life is suffering. To be sure, some forms of suffering are worse than others, but the fact of suffering itself is inescapable. There is no accomplishment, recognition, or discount Amazon product that will give you happiness.
 
@@ -58,7 +58,7 @@ Emotions are signals. Repressing and overidentifying with emotions are both bad.
 
 "What do you want out of life?" is a useless question. I want endless euphoria, you probably do too. A better one is: "what pain are you willing to do endure?" The path to wealth, health, and love is paved with 80-hour work weeks, leg days, and bitter quarrels. But taking those paths is worth it, not for what lies at the end (death), but for the pleasures of the journey.
 
-### You Are Not Special
+#### You Are Not Special
 
 We give out too many goddamn participation awards. Recent psychological studies have shown that self-esteem is not intrinsically beneficial. Taken too far, it turns into an exhausting, regressive, and narcissistic mental straightjacket. You become the dog in the "Everything is fine" meme (except you're also an asshole).
 
@@ -68,7 +68,7 @@ You aren't special. "Everyone is special" is an oxymoronic phrase.
 
 **Lucky for you, you don't need to be special to be happy.**
 
-### The Value of Suffering
+#### The Value of Suffering
 
 As Simon Sinek says 50+ times in his book of the same name (don't read it), start with *why*. Most people can identify their emotions. Some might even be aware of why they feel emotions. But beneath that is the question of what you value. By what standard are you judging yourself?
 
@@ -82,7 +82,7 @@ Some values suck. First, pleasure sucks. Hedonists live anxious, meaningless liv
 
 Each of the next five sections explores a worthwhile value.
 
-### You Are Always Choosing
+#### You Are Always Choosing
 
 Responsibility is independent of fault. The COVID-19 pandemic is not my fault (I think), but it's still my responsibility to wear a mask and stay indoors. Fault refers to the past. Responsibility refers to the present. Others may be at fault for how shitty things are. You are always responsible for how you choose to react.
 
@@ -92,7 +92,7 @@ We live in a culture of victimization, and it isn't unique to any political ideo
 
 **The first value is radical responsibility.**
 
-### You're Wrong About Everything
+#### You're Wrong About Everything
 
 Growth is an iterative process. You don't (and can't) be absolutely right, but you can make progress by getting more correct. This is especially important when it comes to questions like "what should I value?", where the correct answer is different for different people.
 
@@ -108,7 +108,7 @@ These are, fundamentally, desires for stability, for you to stay where you are. 
 
 **The second value is uncertainty.**
 
-### Failure Is the Way Forward
+#### Failure Is the Way Forward
 
 Good values are lifelong and they defy completion. Goals cannot substitute for values. A goal like "getting good grades" can help you bring home a good report card, but what happens after? Without values, you will become complacent and anxious.
 
@@ -118,7 +118,7 @@ Don't sit around and wait to start. Action is not simply caused *by* motivation.
 
 **The third value is failure.**
 
-### The Importance of Saying No
+#### The Importance of Saying No
 
 Freedom gives you opportunities, but that doesn't always translate into meaning. Meaning arises when you willingly narrowing your range of choices. Truly valuing something will require you to devalue everything else. Trying to have it all is a form of entitlement.
 
@@ -130,7 +130,7 @@ Choosing to limit yourself leads to more meaning. It also leads to more freedom.
 
 **The fourth value is rejection.**
 
-### ....And Then You Die
+#### ....And Then You Die
 
 For Manson, death of his friend Josh was a transformative period of his life. At first, it threw him in a dark depression, as he grappled with the inevitability of of his death and the consequent meaninglessness of life. But he had an epiphany: if life is meaningless, and there's no reason to do anything, then there's also no reason *not* to do anything. This insight unlocked a responsible, curious and determined personality.
 
