@@ -32,6 +32,6 @@ Today's run was qualitatively different run. Not a routine afternoon jog, but a 
 
 ### Update
 
-Just an hour after this post went up, I was emailed—and I shit you not—about the exact aforementioned essay contest. To Catherine Haller Guzman of the Prizes and Honors Program, I appreciate your interest in my blog and I would love to have a coffee chat. I will also definitely be submitting an essay—for you, and for you only.
+Just an hour after this post went up, I was emailed—and I shit you not—about the exact same aforementioned essay contest. To Catherine Haller Guzman of the Prizes and Honors Program, I appreciate your interest in my blog and I would love to have a coffee chat. In addition, I will definitely be submitting an entry—for you, and for you only.
 
 ![image-20210110181542970](\resources\contest_email)
