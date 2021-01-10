@@ -3,8 +3,10 @@ layout: category-post
 title:  "Long Runs"
 date:   2021-01-10
 categories: writing
-permalink: "long run"
+permalink: "long-run"
 ---
+
+#### Reflection
 
 I just finished a long run. No, I didn't track and field, so my "long run" is probably not impressive to you—I don't care. Friend me on Nike Running Club if you're curious about the distance.
 
