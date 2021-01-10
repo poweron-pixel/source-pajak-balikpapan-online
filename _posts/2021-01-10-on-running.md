@@ -30,4 +30,4 @@ Today's run was qualitatively different run. Not a routine afternoon jog, but a 
 
 6. I still have to fix some stupid bug on a website. God dammit. Wish me luck.
 
-Update: Just an hour after this post, I was emailed about the aforementioned essay contest. I did not sign up for anything or indicate interest. Perhaps it is fate.
+Update: Just an hour after this post, I was emailed about the aforementioned essay contest (sponsored by Berkeley). To Catherine Haller Guzman of the Prizes and Honors Program, I appreciate your interest in my blog and I would like to coffee chat you.
