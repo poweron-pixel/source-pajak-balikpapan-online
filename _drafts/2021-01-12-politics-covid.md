@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Politics & COVID"
-date:   2021-1-8
+date:   2021-01-12
 categories: projects
 permalink: "/politics-covid"
 ---
