@@ -3,7 +3,7 @@ layout: category-post
 title:  "The Subtle Art"
 date:   2021-1-6
 categories: books
-permalink: "/subtle-art"
+permalink: "subtle-art"
 ---
 
 [![](/resources/subtleart.png)](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_2?crid=32FEWMTAXWOFM&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1609970899&sprefix=the+subtle%2Caps%2C239&sr=8-2)

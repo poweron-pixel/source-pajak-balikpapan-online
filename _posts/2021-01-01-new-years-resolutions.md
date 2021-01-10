@@ -3,7 +3,7 @@ layout: category-post
 title:  "2021 Resolutions"
 date:   2021-1-1
 categories: writing
-permalink: "/2021-resolutions"
+permalink: "2021-resolutions"
 ---
 
 I have a poor record with New Year's resolutions. I trust that nailing them to this site will keep me accountable (or, at very least, punish my failure with shame).

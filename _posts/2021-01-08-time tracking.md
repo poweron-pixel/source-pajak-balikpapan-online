@@ -3,7 +3,7 @@ layout: category-post
 title:  "Tracking Time"
 date:   2021-1-08
 categories: projects
-permalink: "/time-tracking"
+permalink: "time-tracking"
 ---
 
 ### Introduction

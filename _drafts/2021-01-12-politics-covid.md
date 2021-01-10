@@ -3,7 +3,7 @@ layout: category-post
 title:  "Politics & COVID"
 date:   2021-01-12
 categories: projects
-permalink: "/politics-covid"
+permalink: "politics-covid"
 ---
 #### Introduction
 
