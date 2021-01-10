@@ -10,9 +10,9 @@ permalink: "long-run"
 
 I just finished a long run. No, I didn't track and field, so my "long run" is probably not impressive to you—I don't care. Friend me on Nike Running Club if you're curious about the distance.
 
-Today's run was qualitatively different run nonetheless. Not a routine afternoon jog, but a run that really challenges my limits, where finishing comes as a sort of pleasant surprise. In preparation, I marked the afternoon a few days in advance and skipped today's morning workout to preserve some energy. Here are the thoughts running through my head:
+Today's run was qualitatively different run nonetheless. Not a routine afternoon jog, but a run that really challenges my limits, where finishing comes as a sort of pleasant surprise. I marked out today afternoon a few days in advance and skipped today's morning workout to preserve some energy. Here are the thoughts running through my head:
 
-1. I'm not tired. It's probably the endorphins. Slowing a sudden stop leaves a massive excess of pain blockers that overcompensate for the residual pain. Today, after I finished, I felt so invigorated that I sprinted the rest of the way home. Only after about 5 to 10 minutes did the heat and fatigue start to kick in.
+1. I'm not tired. It's probably the endorphins. Slowing a sudden stop leaves a massive excess of pain blockers that overcompensate for the residual pain. Today, after I finished, I felt so invigorated that I sprinted the rest of the way home. Only after 5 to 10 minutes of rest did the heat and fatigue start to kick in. Cool biological mechanism!
 
 2. I am a funnel. Water enters my mouth without limit. Peter the funnel also processes protein bars.
 
