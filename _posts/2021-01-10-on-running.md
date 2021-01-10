@@ -29,3 +29,5 @@ Today's run was qualitatively different run nonetheless. Not a routine afternoon
 5. If you don't, you should try running too. It's awesome.
 
 6. I still have to fix some stupid bug on a website. God dammit. Wish me luck.
+
+Update: Just an hour after this post, I was emailed about the aforementioned essay contest. I did not sign up for anything or indicate interest. Perhaps it is fate.
