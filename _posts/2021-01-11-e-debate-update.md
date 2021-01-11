@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "E-Debate Update"
-date:   2020-01-11
+date:   2021-01-11
 categories: projects
 permalink: "e-debate-update"
 ---
