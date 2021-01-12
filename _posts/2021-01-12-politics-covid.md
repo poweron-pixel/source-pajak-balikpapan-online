@@ -5,7 +5,7 @@ date:   2021-01-12
 categories: projects
 permalink: "politics-covid"
 ---
-#### Introduction
+### Introduction
 
 In November of last year, I was assigned a cool final project in statistics class: take a COVID-19 dataset and dig around for anything interesting. The dataset[^1] included state-level COVID-19 cases, deaths, and a handful of related variables (like ICU availability, lockdown status, age). I snuck in an extra variable: the results of the 2020 election.
 
@@ -17,7 +17,7 @@ None of these studies, however, took advantage of the 2020 election results. The
 
 I set out to examine the relationship between election results and COVID outcomes.
 
-#### Inspiration
+### Inspiration
 
 For the class project, I chose to simply correlate and plot partisanship against COVID cases and deaths. The dataset only included COVID outcomes from June and October, so I used those numbers. I pulled election results from [here](https://github.com/tonmcg/US_County_Level_Election_Results_08-20) and subtracted Trump's proportion of votes from that of Biden's (for Maryland—which went 65.8% to 32.4% for Biden—this would be 0.334). I dubbed this measure of partisanship the "Biden margin."
 
@@ -31,7 +31,7 @@ So what changed between June and October? I plotted the difference in cases and 
 
 But these data faced some important limitations. First, state-level data is highly aggregated, which [exaggerates](https://doi.org/10.1111/j.1538-4632.1976.tb00549.x) county-level effects and makes it difficult to establish significance. Second, the cases and deaths data were limited to June and October totals, which is a problem if we want to examine more recent  trends or specific days. I had a good visual for a class project, but not a thorough analysis.
 
-#### Dataset
+### Dataset
 
 I decided to build my own, county-level dataset. To test the strength of the partisanship-COVID relationship, I tried to control for [significant predictors](https://www.medrxiv.org/content/medrxiv/early/2020/04/22/2020.04.17.20069708.full.pdf[) of COVID cases, such as race, density, and geographic location. To test potential mechanisms for the relationship, I also collected data on mask use and mobility. I compiled,[^2] with help from helpful aggregators, the following data sources:
 
@@ -87,7 +87,7 @@ After merging the datasets, I had complete features for 3,111 instances, which s
 | per_gop_2020      |      0.65 |       0.16 |     0.05 |     0.56 |      0.68 |      0.77 |        0.96 |
 | total_votes_2020  |  50800.07 |  150286.51 |    66.00 |  5359.50 |  12553.00 |  33673.00 |  4263443.00 |
 
-#### Exploratory Data Analysis
+### Exploratory Data Analysis
 
 I began by validating the state-level analysis and looking for new trends. I isolated the COVID cases and deaths over April, June, October, and December, which roughly represent the different stages of the pandemic. Based on previous literature, we would expect June to be the "turning point" where blue states began to outperform red states.
 
@@ -111,7 +111,7 @@ As one might expect, mask use has a significant negative correlation with (r=-0.
 
 ![](/resources/mobility_maskuse.png)
 
-#### Design
+### Design
 
 I used the following variables in regression:
 
@@ -148,7 +148,7 @@ I used four similar models for death rates.
 
 The motivations behind these latter four models are similar. Model 5 will predict death rates from population features. Model 6 and 7 will assess the impact of county and state partisanship. Model 8 will control for social distancing measures and ICU availability.
 
-#### Results
+### Results
 
 The regression results for case rates are below.
 
@@ -237,8 +237,7 @@ The regression results for death rates are below.
 <tr style="border-style: none;"><td style="padding-top: 1px; padding-bottom: 1px; padding-left: 0.5ex; padding-right: 0.5ex; margin-top: 0px; margin-bottom: 0px; border-style: none; border-width: 0px;" colspan="13"><p style="width: inherit;">Significance: *** = p < 0.001; ** = p < 0.01; * = p < 0.05</p>
 </td></tr>
 </table>
-
-#### Discussion
+### Discussion
 
 Here are eight insights we can draw from our eight models:
 
@@ -253,7 +252,7 @@ Here are eight insights we can draw from our eight models:
 
 8. **Social distancing works.** Mask use and fewer trips have highly significant depressing effects on both case rate and death rate. They mediate some of the observed relationship between partisanship, cases, and deaths, helping us explain part of why bluer states to better: they practice more social distancing. Strangely, however, the proportion of at-home residents is positively associated with case and death rates. Perhaps the direction of causation is backwards, and an existing crisis prompts people to stay at home, but then we would expect to see the effect for trips as well. It could also be that being at home correlates with other risk factors for COVID, such as age or joblessness. It isn't clear.
 
-#### Conclusion
+### Conclusion
 
 The article has examined the relationship between partisanship, COVID outcomes, and related explanatory variables. The results largely corroborate existing research on standard explanatory factors and highlight the difficult of explaining county-by-county variance.
 
@@ -276,7 +275,7 @@ There are several avenues for future research:
 
 Thanks to the those who maintained the datasets that this analysis used.
 
-#### Footnotes
+### Footnotes
 
 [^1]: The class dataset is [here](/resources/class_data.csv) and the associated codebook is [here](resources/class_codebook.xlsx).
 [^2]: The data sources and compiler are available in my [repo](https://github.com/petezh/COVID-Analysis) and can be used to compile updated statistics. 
