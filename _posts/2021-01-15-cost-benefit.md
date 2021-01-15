@@ -8,11 +8,11 @@ permalink: "cost-benefit-revolution"
 
 ### Review
 
-Don't let the dry reviews on the back cover dissuade you (Forbes says, "Clear, well-argued"). Cass Sunstein's *The Cost-Benefit Revolution* is an awesome read for anyone interested in public policy or economics. He walks through the principles of cost-benefit analysis and considers a variety of challenges and case studies. The book won't keep you at the edge of your seat, but Sunstein's arguments well-written and organized—a pleasure to consume.
+Don't let the dry reviews on the back cover dissuade you (Forbes says: "Clear, well-argued"). Cass Sunstein's *The Cost-Benefit Revolution* is an awesome read for anyone interested in public policy or economics. He walks through the principles of cost-benefit analysis and considers a variety of challenges and case studies. The book won't keep you at the edge of your seat (unless, you're like, really into this), but Sunstein's arguments are well-written and organized—a pleasure to consume.
 
 [![](/resources/costbenefitrev.jpg)](https://www.amazon.com/Cost-Benefit-Revolution-MIT-Press/dp/0262038145)
 
-Here were my five key ideas:
+I took away five key ideas:
 
 - Cost-benefit analysis forces regulators to overcome biases and make a decision based on numbers.
 - Willingness-to-pay is an effective proxy for welfare, *regardless* of form. It can measure happiness, rights, meaning—even moral commitments.
@@ -20,7 +20,7 @@ Here were my five key ideas:
 - Although regulators lack perfect knowledge, reforms can help them improve.
 - Courts evaluating regulations should defer to agencies, except when they make serious, arbitrary decisions.
 
-Large parts of the book are related to work I did at NIST in the summer of 2020. I think I will try to reach out to Professor Sunstein for an interview—fingers crossed.
+Large parts of the book are related to work I did at NIST in the summer of 2020. I plan to reach out to Professor Sunstein for an interview—fingers crossed.
 
 Here are my notes. I'm quite happy with how they turned out. I hope I'm improving.
 
