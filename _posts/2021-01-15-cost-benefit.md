@@ -192,7 +192,7 @@ Democrats are not angels. Following the Montreal Protocol, the Obama administrat
 
 Trump's current regulatory regime, "one in, two out," risks complicating the basic role of CBA. The right approach is to thoroughly evaluate new rules and to scrutinize the necessity of existing rules. If Trump fails to pass policies with great costs but even greater benefits, then the administration will set back the cost-benefit revolution.
 
-Perhaps what we need is an new institution. Reagan's OIRA and the Domestic Policy Council effective overseers, but a truly independent institution devoted to vetting significant regulations could be a very good idea.
+Perhaps what we need is an new institution. Reagan's OIRA and the Domestic Policy Council are effective overseers, but a truly independent institution devoted to vetting significant regulations could be a very good idea.
 
 There are two challenges moving forward. First, monetary figures are not a perfect proxy for welfare, especially in the context of unemployment effects, Hard Cases, and distributed costs. Second, agencies face numerous knowledge problems, whether in making mistakes, misjudging magnitude, or even fudging numbers. Challenges like these manifested in the ACA's electronic health record requirements: the rules cause significant stress of doctors, and probably didn't lead to many benefits.
 
