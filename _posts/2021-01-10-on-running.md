@@ -22,9 +22,9 @@ Today's run was qualitatively different run. Not a routine afternoon jog, but a 
 
    A month ago, I listened to a podcast [episode](https://open.spotify.com/episode/7psmplSSi2D5QJd3ZZbtq2) from Hidden Brain in which psychologist Emily Belcetis discussed deep interplay between our vision and our thoughts. What we see has a powerful influence on what we think and the decisions we subsequently make. It's why the fruits are put at eye level in the school lunch line. Marathon runners [take advantage of the eye-mind connection](https://www.theatlantic.com/health/archive/2015/01/running-faster-by-focusing-on-the-finish-line/384653/) by focusing all their attention on a target in the distance. By keeping their eyes on the prize—whether it be a lamppost, a tree, or a building—26.2 miles can be split into a bunch of smaller, more manageable tasks. Just run to the lamppost!
 
-   And get this, when you narrow your attention to just that target, it ends up appearing physically closer. The eyes-on-the-prize approach therefore both limits distractions and provides empowerment.
+   And get this: when you narrow your attention to just that target, it ends up appearing physically closer. The eyes-on-the-prize approach therefore both limits distractions and provides empowerment.
 
-   I wonder if remnants of this attitude persist after I finish a run. I don't know how the vision aspect would work into it, but focusing on immediate, achievable goals seems like powerful tool for mindfulness and productivity.
+   I wonder if remnants of this attitude persist after I finish a run. I don't know how the vision aspect would work into it, but focusing on immediate, achievable goals seems like a powerful tool for mindfulness and productivity.
 
 5. If you don't, you should try running too. It's awesome.
 
