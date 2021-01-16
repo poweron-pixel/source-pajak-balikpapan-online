@@ -172,7 +172,7 @@ People may compromise on gratuitous costs. For example, making the government ex
 
 Federal regulators evaluate costs and benefits in terms of *expected value*: if an event happens in the future or has only a small chance of happening, regulators will discount it and include it in the analysis.
 
-Modern free speech laws work differently. Obviously, misuses of speech such as incitement of violence should be regulated. Originally, the decision to regulate speech was governed by something like CBA, with a precedent established in *Dennis v. United States*. But Brandenburg v. Ohio*, in a decision spearheaded by Justice Brandeis, set the bar much higher.
+Modern free speech laws work differently. Obviously, misuses of speech such as incitement of violence should be regulated. Originally, the decision to regulate speech was governed by something like CBA, with a precedent established in *Dennis v. United States*. But *Brandenburg v. Ohio*, in a decision spearheaded by Justice Brandeis, set the bar much higher.
 
 The new standard is the "clear and present danger" test: speech is only incitement if the foreseen violence is imminent and likely. Drawing on J.S. Mill, Brandeis argued that if the harm was not imminent, then counterspeech—people disagreeing with the inciter—should be able to combat it.
 
