@@ -57,7 +57,7 @@ Today, I spent 10 hours greying my hair at an online debate tournament. Here are
 
 8. **Punish the spec shell.** If the 1NC reads a-spec, retaliate by reading four or five 1AR spec interps. The strongest responses to spec shells are those that apply to all spec shells, so the 2NR will have a real tough time. Some ideas: spec status, spec advocacy, spec K vs. theory, spec in-round abuse vs norm setting. 
 
-9. **(LD) debate doesn't change policy.** K teams should read more defense to policy education. The most common response to "fiat is illusory" is discussing policies empowers students to pass them later on. This claim seems very wrong. Debate is distorted by competitive incentives—just look at the Space Elevator CP or the average Kant framework. The [Hester 13](/resources/Hector.docx) card is a decent response.
+9. **(LD) debate doesn't change policy.** K teams should read more defense to policy education. The most common response to "fiat is illusory" is discussing policies empowers students to pass them later on. This claim seems very wrong. Debate is distorted by competitive incentives—just look at the Space Elevator CP or the average Kant framework. The [Hester 13](/resources/Hester.docx) card is a decent response.
 
 10. **Batterman is awesome.** Bill Batterman's educational [YouTube channel](https://www.youtube.com/c/BillBatterman/videos) is a treasure to the debate community. Some of his best lectures include "The Art of..." series, "Judge Psychology," "Mental Toughness," and "Intro to IR." I won't proselytize for Policy here, but I'm certain that even the dankest swamp monsters of northeastern LD debate would love these videos.
 
