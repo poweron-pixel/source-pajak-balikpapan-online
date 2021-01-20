@@ -188,7 +188,7 @@ The best objection is that, for most of history, the clear and present danger te
 
 CBA is not a political issue. When the Obama restriction rejected on environment regulation but simultaneously adopted another, both environmentalists and business groups where confused. They though it was an ideological issue. It wasn't. It was a question of costs and benefits.
 
-Democrats are not angels. Following the Montreal Protocol, the Obama administration banned MaxAir—an asthma inhaler used by hundreds of thousands—without considering the massive costs and miniscule benefits. CBA unequivocally defends welfare, regardless of who in is office.
+Democrats are not angels. Following the Montreal Protocol, the Obama administration banned MaxAir—an asthma inhaler used by hundreds of thousands—without considering the massive costs and miniscule benefits. CBA unequivocally defends welfare, regardless of who is in office.
 
 Trump's current regulatory regime, "one in, two out," risks complicating the basic role of CBA. The right approach is to thoroughly evaluate new rules and to scrutinize the necessity of existing rules. If Trump fails to pass policies with great costs but even greater benefits, then the administration will set back the cost-benefit revolution.
 
