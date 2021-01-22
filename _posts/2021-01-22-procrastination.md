@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Procrastination"
-date:   2021-01-17
+date:   2021-01-22
 categories: writing
 permalink: "procrastination"
 ---
