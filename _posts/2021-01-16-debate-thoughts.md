@@ -6,8 +6,6 @@ categories: writing
 permalink: "debate-thoughts-1"
 ---
 
-#### Drifting Thoughts
-
 Today, I spent 10 hours greying my hair at an online debate tournament. Here are some thoughts drifting through my head:
 
 1. **Stop the dogshit.** I just listened to a round where the negative asked "so... why don't PICs and CPs negate?"
