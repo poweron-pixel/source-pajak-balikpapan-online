@@ -2,7 +2,7 @@
 layout: category-post
 title:  "#BreakIntoVC"
 date:   2021-01-21
-categories: book
+categories: books
 permalink: "venture-capital"
 ---
 
@@ -49,33 +49,25 @@ Monthly recurring revenue (**MRR**) refers to all revenue that is obligated to r
 The **churn rate** refers to customer attribution over a given period. It can also be used in different context to refer to loss.
 
 $$
-
 churn\ rate = \frac{customers\ before - customers\ now}{customers\ now}
-
 $$
 
 The **burn rate** refers to the cash burned in a given period. It is often talked in the context of an industry, such as "ride-share companies tend to have high burn rates."
 
 $$
-
 burn\ rate = \frac{capital\ expended}{time\ frame}
-
 $$
 
 Dollar revenue retention (**DRR**) is a measure of the revenue retained from customers. If your customers are upgrading to a premium plan, then your churn rate may be constant but your DRR may be positive.
 
 $$
-
 DRR = \frac{revenue\ before - revenue\ now}{revenue\ now}
-
 $$
 
 Customer lifetime value (**CLV**) is the projected value of a customer over a lifetime. For example, you could calculate it as follows:
 
 $$
-
 CLV = customer\ revenue\ per\ visit * visits\ per\ week * 52 * customer\ lifespan 
-
 $$
 
 The customer acquisition cost (**CAC**) refers to the cost of acquiring a new customer, including advertising, PR, sales salaries, and other costs.
@@ -95,9 +87,7 @@ The **gross revenue** is the money taken in from selling goods and services. For
 The cost of goods sold (**COGS**) includes raw materials, labor, or manufacturing costs. Subtracting COGS from net revenue yields **gross profit**. **Gross margin** is the profitability ratio and is measured as follows:
 
 $$
-
 Gross\ Margin\ (\%) = \frac{Revenue - COGS}{Revenue}
-
 $$
 
 Operating expenses (**OPEX**) encompasses sales, general & administrative expenses (**SG&A**) and research & development (**R&D**). SG&A includes the costs of advertising, facility maintenance, and executive salaries. R&D refers to innovation practices, such as hiring scientists and engineers.
@@ -105,25 +95,19 @@ Operating expenses (**OPEX**) encompasses sales, general & administrative expens
 **EBITDA** refers to earnings before interest, tax, depreciation, and amortization. Companies have different tax rates and interest accounting methods, so EDITBA provides an apples to apples comparison. It is the result of subtracting OPEX from gross profit.
 
 $$
-
 EDITBA = gross\ profit - OPEX
-
 $$
 
 **EBIT** is EBITDA minus depreciation and amortization (**D&A**). Depreciation and amortization are similar — they refer to the declining value of tangible and intangible goods, respectively. The most common way to measure D&A is **straight-line depreciation**, expressed as follows:
 
 $$
-
 Depreciation\ Expense = \frac{Asset\ Cost - Salvage\ Value}{Useful\ Life}
-
 $$
 
 EBIT is also referred to as **operating profit**. There are some differences between the two, but in VC, they often treated the same. We can now calculate the operating margin as well:
 
 $$
-
 Operating\ Margin = Operating\ Profit / Revenue
-
 $$
 
 Companies will often have interest expenses from bonds loans, or other lines of credit. They may also make interest income from investments. **Net interest expense** is the interest expense minus interest income. Accounting for interest leaves us with **pre-tax income**.
@@ -137,9 +121,7 @@ All companies pay **income tax** and corporate tax is usually about 40 percent. 
 A balance sheet is defined by:
 
 $$
-
 Assets = Liabilities + Equity
-
 $$
 
 **Assets** are things the company owns, such as machinery, land, factories, cash, and accounts receivable. Balance sheets will differentiate between **long-term assets** (such as factories or land) and **current access** (such as cash and inventory).
@@ -149,17 +131,13 @@ $$
 **Working capital** refers to the ability to cover short term liabilities, defined as follows:
 
 $$
-
 Working\ Capital = Current\ Assets - Current\ Liabilities
-
 $$
 
 **Equity** is a claim on the company's assets. **Book value** is the assets of a company minus its liabilities. Rearranging the equation at the top:
 
 $$
-
 Equity = Assets - Liabilities
-
 $$
 
 The **par value** is the floor value of a stock. The number of shares multiplied at the par value is the **common stock value**. Investors will pay **additional paid-in capital** over the par value to purchase stocks. If a company buys back its own stocks, it is called **treasury stock**. On the balance sheet, this represents a **contra-equity** account, decreasing shareholder's equity and altering cash on the asset side.
@@ -167,9 +145,7 @@ The **par value** is the floor value of a stock. The number of shares multiplied
 **Dividends** are payments made to shareholders. **Retained earnings** are the end state of the money.
 
 $$
-
 REnew = REoriginal + Net\ Income - Dividends
-
 $$
 
 **Bookings** are commitments by the customer to purchase a good. It becomes **recognized revenue** when the company provides a good or service. **Collections** occur when the money is collected from the customer. If the company collects immediate revenue for a long-term subscription, it is considered **deferred revenue**, since if the company were to go bankrupt, the services would not be delivered and the revenue would not be recognized. The **book-to-bill** ratio is a metric of financial health. If a companies has over $1 in revenue for each $1 of bookings, there is strong demand.
@@ -197,9 +173,7 @@ The **IRR** is the annual rate of return. It accounts for all cash flows, making
 **Enterprise value** is the value of an entire firm. It is calculated as:
 
 $$
-
 Enterprise\ Value = Equity\ Value + Debt - Cash + Minority\ Interest
-
 $$
 
 **Equity** is the total value of company stock. **Debt** is what a company owes. **Cash** basically subsidizes the cost. **Minority interest** refers to equities of subsidiaries that parent companies don't own.
@@ -226,9 +200,7 @@ $$
 The **venture capital method** involves estimating the target's revenue at the nth year, identifying industry multiples from similar companies, and using the two calculate the enterprise value. Then, the enterprise value is divided by the anticipated ROI, which is usually around 30x for seed stage companies.
 
 $$
-
 Post\ Money\ Valuation = Enterprise\ Value\ / Anticipated\ ROI
-
 $$
 
 Because the value of shares increases at a slower rate than the valuation of the company, investors will usually make less than the anticipated ROI. After accounting for **valuation divergence**, the real ROI may drop from 30x to 5-10x.
