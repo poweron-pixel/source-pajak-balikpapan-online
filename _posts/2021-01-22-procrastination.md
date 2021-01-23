@@ -16,7 +16,7 @@ I'll never forget it. In total, I wrote 6 or so pathetic paragraphs, most of the
 
 Two 250 word prompts. Whose existence was entirely unbeknownst to me. I tried—I really did—to wordsmith at 10 wpm with the hour I had left. I was saved by a miracle: my credit card got declined and I couldn't submit the two stinkers.
 
-If you're wondering about the rest of the essays went, keep in mind that Berkeley is notorious for [not really caring](https://talk.collegeconfidential.com/t/ucs-do-not-read-college-application-essays/1195014) about essays. Thank the Lord!
+If you're wondering about how the rest of the essays went, keep in mind that Berkeley is notorious for [not really caring](https://talk.collegeconfidential.com/t/ucs-do-not-read-college-application-essays/1195014) about essays. Thank the Lord!
 
 #### Problem
 
