@@ -6,6 +6,8 @@ categories: projects
 permalink: "disclosure-quantified"
 ---
 
+This article is also published on [Briefly](https://www.vbriefly.com/2021/01/22/disclosure-in-numbers-by-peter-zhang/) as "Disclosure in Numbers."
+
 #### Introduction
 
 I fondly recall my first outround: it started 20 minutes after pairings were posted, and Millburn AW did not disclose. In response to their topical hauntological-feminist-counterfactuals K-aff, I read a disclosure shell and presented reasons why military conscription was a bad policy. Following the crushing defeat, I helped my opponent set up a wiki page.
