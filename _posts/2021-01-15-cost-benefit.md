@@ -3,7 +3,6 @@ layout: category-post
 title:  "Cost-Benefit Revolution"
 date:   2021-01-15
 categories: books
-permalink: "cost-benefit-revolution"
 ---
 
 ### Review

@@ -3,7 +3,6 @@ layout: category-post
 title:  "Decision-Making"
 date:   2021-1-3
 categories: books
-permalink: "decision-making"
 ---
 
 Recently, I noticed a common theme running through my reading list: I have an interest in decision-making. The attraction makes sense to me; my first semester of college has featured a constant barrage of decisions, ranging from trivial choices about whether to go on a jog to less trivial dilemmas about which clubs to join or which classes to take.

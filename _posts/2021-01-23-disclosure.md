@@ -3,7 +3,6 @@ layout: category-post
 title:  "Disclosure Quantified"
 date:   2021-01-23
 categories: projects
-permalink: "disclosure-quantified"
 ---
 
 This article is also published on [Briefly](https://www.vbriefly.com/2021/01/22/disclosure-in-numbers-by-peter-zhang/) as "Disclosure in Numbers."

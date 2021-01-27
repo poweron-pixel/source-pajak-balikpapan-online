@@ -3,7 +3,6 @@ layout: category-post
 title:  "Long Runs"
 date:   2021-01-10
 categories: writing
-permalink: "long-run"
 ---
 
 ### Reflection

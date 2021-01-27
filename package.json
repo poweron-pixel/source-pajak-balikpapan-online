@@ -1,0 +1,23 @@
+{
+    "name": "halo",
+    "version": "0.0.1",
+    "description": "Your repo description",
+    "scripts": {
+        "setup": "bundle install && npm i && npm i postcss-cli -g",
+        "build": "npm run css:rel && bundle exec jekyll build",
+        "dev": "npm run css:dev && bundle exec jekyll serve",
+        "dev-l": "npm run css:dev && bundle exec jekyll serve -l",
+        "rel": "npm run css:rel",
+        "css:dev": "postcss assets/css/tailwind.config.css -o assets/css/styles.css",
+        "css:rel": "npm run css:dev -- --env production"
+    },
+    "dependencies": {
+        "@tailwindcss/typography": "^0.4.0",
+        "autoprefixer": "^10.2.3",
+        "postcss": "^8.2.4",
+        "tailwindcss": "^2.0.2"
+    },
+    "devDependencies": {
+        "cssnano": "^4.1.10"
+    }
+}

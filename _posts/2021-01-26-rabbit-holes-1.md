@@ -3,7 +3,6 @@ layout: category-post
 title:  "Rabbit Holes: Ear Candy"
 date:   2021-01-26
 categories: writing
-permalink: "rabbit-holes-1"
 ---
 
 #### Inspiration

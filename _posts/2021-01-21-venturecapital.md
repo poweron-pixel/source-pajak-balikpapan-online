@@ -3,7 +3,6 @@ layout: category-post
 title:  "#BreakIntoVC"
 date:   2021-01-21
 categories: books
-permalink: "venture-capital"
 ---
 
 ### Introduction

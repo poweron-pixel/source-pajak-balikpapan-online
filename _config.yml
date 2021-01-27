@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Peter Zhang
+title: Balikpapan Tax
 description: Welcome to my site! Check out my projects, recent reads, and writings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peterzhang.info/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,6 +35,10 @@ theme_color: blue
 # Build settings
 markdown: kramdown
 
+collections: 
+  posts:
+    permalink: /:categories/:title
+
 
 plugins:
   - jekyll-feed
@@ -49,14 +53,14 @@ repository: petezh/mysite
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

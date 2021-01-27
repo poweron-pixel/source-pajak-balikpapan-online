@@ -3,7 +3,6 @@ layout: category-post
 title:  "Debate Thoughts, Vol. 1"
 date:   2021-01-16
 categories: writing
-permalink: "debate-thoughts-1"
 ---
 
 Today, I spent 10 hours greying my hair at an online debate tournament. Here are some thoughts drifting through my head:
