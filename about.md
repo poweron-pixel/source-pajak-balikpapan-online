@@ -3,11 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi! sebelum mendirikan Balikpapan Tax Center ini, kami bekerja di Kantor Pelayanan Pajak sebagai Account Representative, selain sebagai Account Repsentative, kami juga ditunjuk sebagai Tim Pemeriksa Pajak.
 
-Hi! I'm a first-year student at UC Berkeley studying Computer Science and (intended) Economics.
+Banyak pengalaman menarik masalah perpajakan yang kami tangani.
 
-My passion is studying social problems through quantitative lens. In the past, I've researched applied economics, bioinformatics, and natural language processing. My current interests include strategy consulting, competitive debate, and economics research.
+Saat memberikan konsultasi perpajakan, kami selalu menyampaikan bahwa "setiap masalah perpajakan, pasti ada jalan keluarnya"
 
-I use this site as a place to share new projects and personal updates. I hope to get comfortable with writing regularly, and I appreciate your readership and feedback.
+Kami menggunakan website ini untuk memberikan informasi perpajakan dalam bentuk blog dan jasa perpajakan.
 
-I'm currently looking for software engineering and data science roles for the summer of 2021. If you think you might have an opportunity, please [reach out](mailto:petez@berkeley.edu)!
+Jangan sungkan untuk menghubungi kami via WA untuk konsultasi perpajakan umum atau ingin menggunakan jasa kami
+
+**WA: 0815-21777-255**

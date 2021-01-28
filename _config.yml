@@ -42,6 +42,7 @@ collections:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 theme: jekyll-swiss
 repository: petezh/mysite
 

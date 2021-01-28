@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<section class="">
-  <div class="container px-8 py-16 mx-auto lg:px-4">
-      <div class="flex flex-col w-full mb-12 text-left sm:text-center">
+<section class="" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="max-w-5xl px-8 py-16 mx-auto lg:px-4 ">
+      <div class="flex flex-col w-full text-left sm:text-center ">
           <h2 class="text-xs font-semibold tracking-widest text-blue-600 uppercase mx-auto">{{ page.tagline}}</h2>
-          <h1 class="pb-6 text-4xl font-extrabold tracking-tighter sm:text-5xl">
+          <h1 itemprop="headline"  class="hero-font">
               {{ page.title }}
           </h1>
-          <p class="mx-auto text-base leading-relaxed lg:w-2/3">{{ page.description }}
+          <p class="subhero-font mx-auto lg:w-2/3">{{ page.description }}
           </p>
       </div>
   </div>

@@ -21,11 +21,11 @@
 
  @layer components {
   .hero-font {
-    @apply max-w-xs mx-auto text-3xl font-bold text-center leading-snug text-gray-900 lg:max-w-2xl lg:text-5xl;
+    @apply mx-auto text-3xl font-bold text-center leading-snug text-gray-900 lg:text-5xl;
   }
 
   .subhero-font {
-      @apply mt-4 text-gray-700 text-center lg:max-w-xl lg:mx-auto lg:text-xl;
+      @apply mt-4 text-center lg:mx-auto;
   }
   }
  

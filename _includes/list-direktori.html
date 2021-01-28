@@ -1,9 +1,9 @@
-<div class="max-w-5xl mx-auto py-2 items-center sm:py-4 select-none">
+<div class="max-w-4xl mx-auto py-2 items-center sm:py-4 select-none">
     <div class="mt-10 sm:mt-0 rounded-lg border-t">
       <div class="md:grid md:grid-cols-5 md:gap-6 px-4 py-10">
         <div class="md:col-span-1">
           <div class="px-4 sm:px-0">
-            <h3 id=" .Title "class="text-2xl font-bold leading-6 text-gray-900">
+            <h3 id={{ include.direktori | downcase }}" class="text-2xl font-bold leading-6 text-gray-900">
                {{ include.direktori }}
             </h3>
             <p class="mt-1 text-sm text-gray-600">
@@ -22,7 +22,7 @@
                    {% if post.aktif %}
                   <a itemprop="headline" href="{{ post.url | prepend: site.baseurl }}" class="flex items-center text-blue-600 hover:text-blue-500 font-semibold">
                      {% else %}
-                    <a itemprop="headline" href="/" class="flex items-center text-gray-400">
+                    <a itemprop="headline" href="#{{ post.direktori }}" class="flex items-center text-gray-400">
                   {% endif %}
                        {{ post.title }}
                        {% if post.aktif %} 
