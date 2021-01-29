@@ -1,7 +1,7 @@
 {
     "name": "halo",
     "version": "0.0.1",
-    "description": "Your repo description",
+    "description": "Jekyll Blog",
     "scripts": {
         "setup": "bundle install && npm i && npm i postcss-cli -g",
         "build": "npm run css:rel && bundle exec jekyll build",

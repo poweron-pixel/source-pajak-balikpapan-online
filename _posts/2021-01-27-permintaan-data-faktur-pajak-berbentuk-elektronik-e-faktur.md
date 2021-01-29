@@ -11,7 +11,7 @@ Layanan ini diberikan kepada Pengusaha Kena Pajak (PKP) yang mengajukan perminta
 ### Prosedur
 PKP mengajukan permintaan data e-Faktur ke KPP tempat PKP terdaftar.
 
-###Persyaratan dan Dokumen
+### Persyaratan dan Dokumen
 Surat permintaan data e-Faktur.
 
 ### Jangka Waktu Penyelesaian

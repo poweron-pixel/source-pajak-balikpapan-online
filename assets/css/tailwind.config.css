@@ -29,6 +29,11 @@
   }
   }
  
+  mark {
+    background-color: transparent;
+    background: linear-gradient( 0deg,#ffe2a7 40%,#fff 0);
+    color: currentColor;
+}
 /*
     Extract Tailwind CSS components here according to the docs.
     https: //tailwindcss.com/docs/extracting-components/#extracting-css-components-with-apply

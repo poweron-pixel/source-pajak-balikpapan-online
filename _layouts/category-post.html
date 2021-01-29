@@ -1,21 +1,24 @@
 ---
 layout: default
 ---
-<section class="select-none" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="max-w-5xl mx-auto flex flex-col px-5 justify-center items-center py-16">
-    <div class="w-full md:w-2/3 flex flex-col items-center text-center">
-      <h1 itemprop="headline"  class="font-medium text-3xl md:text-5xl text-left md:text-center">
+<section itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="max-w-4xl mx-auto px-8 py-16 lg:px-4">
+    <div class="flex flex-col w-full mb-12 text-left ">
+      <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase title-font">{{ page.direktori }}</h2>
+      <h1 itemprop="headline" class="mb-6 text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-semibold tracking-tighter text-blue-800  title-font">
         {{ page.title }}
       </h1>
+      <div class="prose prose-sm sm:prose max-w-none" itemprop="articleBody">{{ content }}</div>
+      <div itemprop="dateCreated" class="text-sm border-t w-full py-10 mt-10">Last Updated: </div>
     </div>
-  </div>
-  <div class="max-w-4xl px-5 mx-auto lg:px-20">
-      <div class="flex flex-col">
-          <div itemprop="articleBody" class="prose select-none border-t border-gray-300 mx-auto py-16">
-              {{ content }}
-              <div itemprop="dateCreated" class="text-sm border-t w-full py-10 mt-10">Last Updated: </div>
-          </div>
-          
-      </div>
-  </div>
+    <div class="flex justify-center">
+      <!-- <a href="#" class="inline-flex items-center font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-400 ">
+        Learn More
+        <svg class="w-4 h-4 ml-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20"
+          fill="currentColor">
+          <path fill="none" d="M0 0h24v24H0z" />
+          <path d="M16.172 11l-5.364-5.364 1.414-1.414L20 12l-7.778 7.778-1.414-1.414L16.172 13H4v-2z" />
+        </svg>
+      </a> -->
+    </div>
 </section>

@@ -18,8 +18,8 @@
                 {% capture name %}{{ include.direktori | downcase }}{% endcapture %}
                 {% for post in site.categories.direktori %}
                 {% if post.direktori == name %}
+
                 {% if post.aktif %}
-                {% else %}
                 <li class="sm:col-span-2" itemscope itemtype="http://schema.org/CreativeWork">
                    {% if post.aktif %}
                   <a itemprop="headline" href="{{ post.url | prepend: site.baseurl }}" class="flex items-center text-blue-600 hover:text-blue-500 font-semibold">
@@ -28,7 +28,7 @@
                   {% endif %}
                        {{ post.title }}
                        {% if post.aktif %} 
-                      <span>
+                      <!-- <span>
                         <svg class="ml-2 stroke-current h-4 w-4 text-blue-500" role="img"
                           xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-labelledby="arrowRightTopIconTitle"
                           stroke="#2329D6" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" fill="none">
@@ -37,11 +37,13 @@
                           <path stroke-linecap="round" d="M19 5l-1 1" />
                           <path d="M18 6L5 19" />
                         </svg>
-                      </span>
+                      </span> -->
                       {% endif %}
                     </a>
                 </li>
+                {% else %}
                 {% endif %}
+
                 {% endif %}
                 {% endfor %}
               </ul>

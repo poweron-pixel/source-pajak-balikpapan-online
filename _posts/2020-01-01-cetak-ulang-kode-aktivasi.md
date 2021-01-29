@@ -9,7 +9,7 @@ aktif: true
 Layanan ini diberikan kepada Pengusaha Kena Pajak (PKP) yang mengajukan permohonan cetak ulang Kode Aktivasi.
 
 ### Prosedur
-PKP mengajukan permohonan secara tertulis ke KPP tempat PKP dikukuhkan.
+PKP mengajukan permohonan secara <mark>tertulis</mark> ke KPP tempat PKP dikukuhkan.
 
 ### Persyaratan dan Dokumen
 1. surat permohonan cetak ulang kode aktivasi;

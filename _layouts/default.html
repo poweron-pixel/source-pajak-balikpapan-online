@@ -1,24 +1,31 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
-  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
- 
-  <body class="antialiased font-sans">
-    <script>
-        AOS.init();
-      </script>
+{% include head.html %}
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
-    {% include header.html %}
-      <div class="pt-24"></div>
-    <div>
-      {{ content }}
-    </div>
+<body class="antialiased font-sans">
+  <script>
+    AOS.init();
+  </script>
 
-    {% include footer.html %}
+  {% include header.html %}
+  {% if jekyll.environment == "development" %}
+  {% include dev-size-indicator.html %}
+  {% endif %}
+  <div class="pt-24"></div>
+  <div>
+    {{ content }}
+  </div>
 
-  </body>
-  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+  {% include footer.html %}
+
+</body>
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+
 </html>

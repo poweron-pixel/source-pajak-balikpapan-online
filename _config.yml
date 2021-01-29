@@ -41,9 +41,10 @@ collections:
 
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-theme: jekyll-swiss
+  - jekyll-seo-tag 
+  
+#- jekyll-feed
+#  theme: jekyll-swiss
 repository: petezh/mysite
 
 # Exclude from processing.
