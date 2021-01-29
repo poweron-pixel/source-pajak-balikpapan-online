@@ -18,6 +18,8 @@
                 {% capture name %}{{ include.direktori | downcase }}{% endcapture %}
                 {% for post in site.categories.direktori %}
                 {% if post.direktori == name %}
+                {% if post.aktif %}
+                {% else %}
                 <li class="sm:col-span-2" itemscope itemtype="http://schema.org/CreativeWork">
                    {% if post.aktif %}
                   <a itemprop="headline" href="{{ post.url | prepend: site.baseurl }}" class="flex items-center text-blue-600 hover:text-blue-500 font-semibold">
@@ -39,6 +41,7 @@
                       {% endif %}
                     </a>
                 </li>
+                {% endif %}
                 {% endif %}
                 {% endfor %}
               </ul>
