@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title: Permohonan Pelaporan Usaha dan Pengukuhan PKP
-date: 2021-01-27
+date: 2020-01-27
 categories: direktori
 direktori: registrasi
 aktif: true
@@ -23,4 +23,4 @@ Layanan ini diberikan kepada Pengusaha yang melakukan penyerahan yang merupakan 
 tergantung KPP yang melakukan proses
 
 ### Wilayah Kerja
-Khusus untuk daerah Balikpapan dan sekitarnya
+Khusus untuk <mark>daerah Balikpapan dan sekitarnya</mark>

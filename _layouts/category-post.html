@@ -9,7 +9,7 @@ layout: default
         {{ page.title }}
       </h1>
       <div class="prose prose-sm sm:prose max-w-none" itemprop="articleBody">{{ content }}</div>
-      <div itemprop="dateCreated" class="text-sm border-t w-full py-10 mt-10">Last Updated: </div>
+      {% if page.dateModified %}<div itemprop="dateCreated" class="text-sm border-t w-full py-10 mt-10">Last Updated: {{ page.dateModified }}</div>{% endif %}
     </div>
     <div class="flex justify-center">
       <!-- <a href="#" class="inline-flex items-center font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-400 ">
