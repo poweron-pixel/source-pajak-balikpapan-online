@@ -6,9 +6,9 @@ categories: direktori
 direktori: pelaporan spt
 aktif: true
 featured: true
+summary: SPT Tahunan PPh Badan untuk Perusahaan PT, CV, Perkumpulan, Yayasan, Koperasi, BUMN, BUMD
 ---
-Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban
-sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak badan.
+Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak badan.
 
 ![SPT Tahunan Badan 1771](spt-tahunan-badan-1771.png)
 

@@ -1,0 +1,53 @@
+---
+layout: default
+title: Layanan Unggulan
+permalink: /featured/
+featured: false
+description: ada beberapa layanan unggulan kami untuk kepatuhan perpajakan anda
+sup:
+- Perusahaan menyediakan admin pajak, kami akan mendampingi dan melakukan pelatihan pajak untuk pekerjaan sehari-hari
+---
+<section itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="max-w-4xl mx-auto px-8 py-16 lg:px-4 bg-gray-50">
+        <div class="flex flex-col w-full md:w-5/6 mx-auto mb-12 text-left sm:text-center">
+            <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase title-font">{{ page.direktori
+                }}</h2>
+            <h1 itemprop="headline"
+                class="mb-6 text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tighter">
+                {{ page.title }}
+            </h1>
+            <p class="mx-auto text-base font-medium leading-relaxed text-gray-900 lg:w-2/3">
+                {{ page.description }}
+            </p>
+        </div>
+</section>
+
+{% include featured.html categories="featured" tag="registrasi" title="Registrasi"%}
+{% include featured.html categories="featured" tag="spt-tahunan" title="SPT Tahunan PPh"%}
+
+{% for post in site.categories.harga %}
+{% if post.title == "All In One" %}
+<section class="my-24" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="max-w-4xl mx-auto px-8 py-16 lg:px-4 mt-10 bg-blue-50 rounded-xl">
+        <div class="flex flex-col w-full md:w-5/6 mx-auto text-left">
+            <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase title-font">{{ page.direktori
+                }}</h2>
+            <h1 itemprop="headline"
+                class="mb-6 font-semibold text-5xl sm:text-6xl md:text-7xl lg:text-6xl tracking-tighter text-blue-800  title-font">
+                Paket All In One
+            </h1>
+            <div class="prose prose-sm text-black sm:prose max-w-none" itemprop="articleBody">{{ post.content }}</div>
+        </div>
+</section>
+{% endif %}
+{% endfor %}
+
+<div class="bg-gray-50">
+    <div class="max-w-4xl mx-auto px-8 py-4 lg:px-4">
+        {% for sup in page.sup %}
+        <div class="text-xs text-gray-400">
+            {{ page.sup }}
+        </div>
+        {% endfor %}
+    </div>
+</div>

@@ -6,9 +6,11 @@ categories: direktori
 direktori: pelaporan spt
 aktif: true
 featured: true
+summary: SPT Tahunan PPh untuk karyawan dengan penghasilan dibawah Rp.60juta setahun
 ---
 Kewajiban untuk melaporkan penghasilan selain dari usaha dan/atau pekerjaan bebas dengan jumlah penghasilan bruto tidak lebih dari Rp60.000.000,00 (enam puluh juta) setahun bagi Wajib Pajak orang pribadi.
-### Prosedur
+
+#### Prosedur
 Wajib Pajak orang pribadi menyampaikan SPT Tahunan:
 1. secara langsung;
 2. melalui pos dengan bukti pengiriman surat; atau
@@ -21,7 +23,7 @@ Wajib Pajak orang pribadi menyampaikan SPT Tahunan:
         - jaringan komunikasi data yang terhubung khusus antara Direktorat Jenderal Pajak dengan Wajib Pajak;
         - saluran lain yang ditetapkan oleh Direktur Jenderal Pajak.
 
-### Persyaratan dan Dokumen
+#### Persyaratan dan Dokumen
 Induk SPT Tahunan PPh Pribadi 1770 SS.
 
 ### Batas Waktu Penyampaian

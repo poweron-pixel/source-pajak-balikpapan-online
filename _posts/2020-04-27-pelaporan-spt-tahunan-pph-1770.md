@@ -6,6 +6,7 @@ categories: direktori
 direktori: pelaporan spt
 aktif: true
 featured: true
+summary: SPT Tahunan untuk pengusaha, yang melakukan pekerjaan bebas, dan karyawan
 ---
 Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak orang pribadi.
 

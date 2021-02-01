@@ -6,6 +6,7 @@ categories: direktori
 direktori: pelaporan spt
 aktif: true
 featured: true
+summary: SPT Tahunan PPh untuk karyawan dengan penghasilan diatas 60juta
 ---
 Kewajiban untuk melaporkan pajak atas penghasilan:
 1. dari satu atau lebih pemberi kerja;
