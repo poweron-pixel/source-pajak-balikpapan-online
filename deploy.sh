@@ -11,6 +11,7 @@ npm run build # jekyll build
 # Go To Public folder
 cd _site
 
+
 # Add changes to git.
 git add .
 
@@ -22,4 +23,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin main
+git push origin master

@@ -73,9 +73,9 @@ layout: default
 
 <section class="text-gray-700 body-font">
   <div class="max-w-4xl px-8 mx-auto py-36 lg:px-4">
-    <div class="flex flex-col w-full mb-12 text-left">
+    <div class="flex flex-col w-full mb-12 text-left select-none ">
       {% for manfaat in site.data.manfaat %}
-      <h1 data-aos="fade-left" class="mb-16 text-3xl sm:text-5xl md:text-6xl font-semibold tracking-tighter text-black">
+      <h1 data-aos="fade-left" class="mb-16 text-3xl sm:text-5xl md:text-6xl select-none font-semibold tracking-tighter text-black">
         {{ manfaat.desc }}
       </h1>
       {% endfor %}
@@ -92,11 +92,11 @@ layout: default
       <img class="object-cover object-center rounded" alt="hero" src="{{ link }}/assets/img/aspek-pajak.webp">
     </div>
     <div
-      class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
+      class="flex flex-col items-center text-center lg:flex-grow select-none md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
       <div class="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4 ">
         {% for manfaat in site.data.manfaat %}
         <div data-aos="fade-left"
-          class="flex flex-col items-center w-full p-4 mb-6 text-center md:mb-0 lg:text-left lg:items-start">
+          class="flex flex-col items-center w-full select-none p-4 mb-6 text-center md:mb-0 lg:text-left lg:items-start">
           <div class="flex-grow">
             <h1 class="mb-4 text-xl font-bold tracking-tighter text-center text-black lg:text-left lg:text-2xl">
               {{ manfaat.title }}
