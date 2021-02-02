@@ -20,7 +20,8 @@ layout: default
 </section>
 
 <!-- Direktori -->
-<!-- <section class="select-none pb-10 border-t">
+{% comment %}
+<section class="select-none pb-10 border-t">
   <div class="new_bg m-16 py-24 mx-auto max-w-3xl rounded-0 md:rounded-2xl px-4">
       <div class="flex justify-center px-4 sm:px-6 lg:px-8 mb-6">
         <div class="text-center">
@@ -50,12 +51,15 @@ layout: default
       {% endif %}
       {% endfor %}
   </div>
-</section> -->
+</section> 
+{% endcomment %}
 
 <!-- This example requires Tailwind CSS v2.0+ -->
+
 <section class="py-12 border-t select-none">
   <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 ">
     <div class="text-center grid grid-cols-1 justify-items-center" data-aos="fade-down">
+      
       <p class="mt-2  text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tighter">
         Manfaat pendampingan pajak
       </p>
@@ -67,12 +71,25 @@ layout: default
   </div>
 </section>
 
+<section class="text-gray-700 body-font">
+  <div class="max-w-4xl px-8 mx-auto py-36 lg:px-4">
+    <div class="flex flex-col w-full mb-12 text-left">
+      {% for manfaat in site.data.manfaat %}
+      <h1 data-aos="fade-left" class="mb-16 text-3xl sm:text-5xl md:text-6xl font-semibold tracking-tighter text-black">
+        {{ manfaat.desc }}
+      </h1>
+      {% endfor %}
+    </div>
+</section>
+
+
+
 <!------- manfaat ------->
+{% comment %}
 <section class="body-font">
   <div class="container flex flex-col items-center px-5 py-16 mx-auto lg:px-20 lg:py-24 md:flex-row">
     <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0 shadow-xl">
-      <img class="object-cover object-center rounded" alt="hero"
-        src="{{ link }}/assets/img/aspek-pajak.webp">
+      <img class="object-cover object-center rounded" alt="hero" src="{{ link }}/assets/img/aspek-pajak.webp">
     </div>
     <div
       class="flex flex-col items-center text-center lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
@@ -96,23 +113,26 @@ layout: default
   </div>
 </section>
 
-<section class="bg-black">
-  <div class="max-w-4xl px-8 py-48 mx-auto lg:px-4">
-      <div class="flex flex-col w-full mb-12 text-left lg:text-center">
-          <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase title-font hidden">
+{% endcomment %}
 
-          </h2>
-          <h1 class="mb-6 text-4xl sm:text-5xl md:text-7xl font-bold text-white">
-            Layanan Unggulan
-          </h1>
-          <p class="mx-auto text-base font-medium leading-relaxed text-gray-50 lg:w-2/3">
-            ada beberapa layanan unggulan kami <br>untuk kepatuhan perpajakan anda</p>
-      </div>
-      <div class="flex justify-center">
-          <a class="inline-flex items-center font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-600 ">
-              Hubungi Kami via Telepon/Telegram/WA 0815-21777-255 →
-            </a>
-      </div>
+<section class="bg-gray-100">
+  <div class="max-w-4xl px-8 py-48 mx-auto lg:px-4">
+    <div class="flex flex-col w-full mb-12 text-left md:text-center">
+      <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase title-font hidden">
+
+      </h2>
+      <img src="/assets/img/package.png" width="64px" height="64px" class="mb-6 hidden md:block md:mx-auto">
+      <h1 class="mb-6 text-4xl sm:text-5xl md:text-7xl font-bold text-black">
+        Layanan Unggulan
+      </h1>
+      <p class="text-base font-medium leading-relaxed text-black">
+        ada beberapa layanan unggulan kami <br>untuk kepatuhan perpajakan anda
+      </p>
+      <a class="mt-8 font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-600 ">
+        Hubungi Kami via Telepon/Telegram/WA 0815-21777-255 →
+      </a>
+    </div>
+
 </section>
 
 {% include featured.html categories="featured" tag="registrasi" title="Registrasi"%}
@@ -131,8 +151,8 @@ layout: default
       </h1>
       <div class="prose prose-sm text-black sm:prose max-w-none" itemprop="articleBody">{{ post.content }}</div>
       <div class="flex">
-       <p class="mt-24 text-sm text-gray-600 md:ml-6 md:mt-2 text-left">
-        Hubungi Kami
+        <p class="mt-24 text-sm text-gray-600 md:ml-6 md:mt-2 text-left">
+          Hubungi Kami
           <br class="hidden lg:block">
           <a class="inline-flex items-center font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-600">
             via Telepon/Telegram/WA 0815-21777-255 →

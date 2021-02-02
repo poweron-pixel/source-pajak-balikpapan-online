@@ -1152,6 +1152,10 @@ mark{
   margin-bottom:1.5rem !important;
 }
 
+.mt-8{
+  margin-top:2rem !important;
+}
+
 .mr-8{
   margin-right:2rem !important;
 }
@@ -1333,6 +1337,11 @@ mark{
   padding-bottom:6rem !important;
 }
 
+.py-36{
+  padding-top:9rem !important;
+  padding-bottom:9rem !important;
+}
+
 .py-48{
   padding-top:12rem !important;
   padding-bottom:12rem !important;
@@ -1431,19 +1440,7 @@ mark{
   color:rgba(0, 0, 0, var(--tw-text-opacity)) !important;
 }
 
-.text-black,.text-white{
-  --tw-text-opacity:1 !important;
-}
-
-.text-white{
-  color:rgba(255, 255, 255, var(--tw-text-opacity)) !important;
-}
-
-.text-gray-50{
-  color:rgba(249, 250, 251, var(--tw-text-opacity)) !important;
-}
-
-.text-gray-50,.text-gray-400{
+.text-black,.text-gray-400{
   --tw-text-opacity:1 !important;
 }
 
@@ -1548,6 +1545,10 @@ mark{
 
 .tracking-tight{
   letter-spacing:-.025em !important;
+}
+
+.tracking-wider{
+  letter-spacing:.05em !important;
 }
 
 .tracking-widest{
@@ -2152,9 +2153,19 @@ mark{
     line-height:1 !important;
   }
 
+  .md\:text-6xl{
+    font-size:3.75rem !important;
+    line-height:1 !important;
+  }
+
   .md\:text-7xl{
     font-size:4.5rem !important;
     line-height:1 !important;
+  }
+
+  .md\:mx-auto{
+    margin-left:auto !important;
+    margin-right:auto !important;
   }
 
   .md\:mt-0{
@@ -2204,6 +2215,10 @@ mark{
 
   .md\:text-left{
     text-align:left !important;
+  }
+
+  .md\:text-center{
+    text-align:center !important;
   }
 
   .md\:w-auto{
@@ -2555,10 +2570,6 @@ mark{
 
   .lg\:text-left{
     text-align:left !important;
-  }
-
-  .lg\:text-center{
-    text-align:center !important;
   }
 
   .lg\:w-2\/3{

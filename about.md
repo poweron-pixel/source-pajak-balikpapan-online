@@ -16,4 +16,4 @@ Jangan sungkan untuk <mark>menghubungi kami via WA</mark> untuk konsultasi perpa
 
 **WA: 0815-21777-255**
 
-Facebook: [https://www.facebook.com/balikpapantaxcenter](https://www.facebook.com/balikpapantaxcenter){:target="_blank"}
+Facebook: [https://www.facebook.com/balikpapantaxcenter →](https://www.facebook.com/balikpapantaxcenter){:target="_blank"}
