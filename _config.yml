@@ -14,19 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Balikpapan Tax
-description: Welcome to my site! Check out my projects, recent reads, and writings.
+description: Layanan Perpajakan, Akuntansi, Pendampingan Pajak, Konsultasi Perpajakan
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://peterzhang.info/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pajakbalikpapan.online/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set social IDs here
-github: petezh
-linkedin: pjz
-facebook: petejzh
-twitter: petejzh
-spotify: 22iudb2kthetd53nbhw6t5mni
-email: petez@berkeley.edu
-instagram: peterszhang
-buyme: peterzhang
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
@@ -45,7 +37,7 @@ plugins:
   
 #- jekyll-feed
 #  theme: jekyll-swiss
-repository: petezh/mysite
+repository: pajakbalikpapan/pajakbalikpapan.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -66,3 +58,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - gitpush.sh
+  - tailwind.config.js
+  - postcss.config.js
+  - package.json

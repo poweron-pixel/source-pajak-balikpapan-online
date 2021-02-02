@@ -10,7 +10,7 @@ summary: SPT Tahunan PPh Badan untuk Perusahaan PT, CV, Perkumpulan, Yayasan, Ko
 ---
 Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak badan.
 
-![SPT Tahunan Badan 1771](spt-tahunan-badan-1771.png)
+![SPT Tahunan Badan 1771](/assets/img/SPT-Tahunan-Badan.jpg)
 
 ### Prosedur
 Wajib Pajak badan menyampaikan SPT Tahunan:
