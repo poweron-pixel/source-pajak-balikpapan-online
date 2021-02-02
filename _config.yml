@@ -62,3 +62,6 @@ exclude:
   - tailwind.config.js
   - postcss.config.js
   - package.json
+  - deploy.sh
+  - direktorifull.html
+  - bin
