@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+
+.sticky-nav {
+	backdrop-filter: saturate(180%) blur(20px);
+	transition: background-color 0.1 ease-in-out;
+}
+
+.blurring {
+	backdrop-filter: saturate(180%) blur(20px);
+}
+
+.new_bg {
+	/* background-image: url("https://products.ls.graphics/mesh-gradients/images/36.-Pale-Chestnut.jpg");
+	background-repeat:no-repeat;
+    background-size:cover; */
+	background-image: radial-gradient(
+		circle at top left,
+		#354ecd 0%,
+		#354ecd 3%,
+		#3548c2 3%,
+		#3548c2 20%,
+		#3641b7 20%,
+		#3641b7 65%,
+		#363bac 65%,
+		#363bac 72%,
+		#3735a0 72%,
+		#3735a0 79%,
+		#372f95 79%,
+		#372f95 82%,
+		#38288a 82%,
+		#38288a 90%,
+		#38227f 90%,
+		#38227f 100%
+	);
+	/* background: hsla(342, 100%, 52%, 1); */
+}
+
+@layer components {
+	.hero-font {
+		@apply mx-auto text-3xl font-bold text-center leading-snug text-gray-900 lg:text-5xl;
+	}
+
+	.subhero-font {
+		@apply mt-4 text-center lg:mx-auto;
+	}
+}
+
+mark {
+	background-color: transparent;
+	background: linear-gradient(0deg, #f8dca5 40%, #fff 0);
+	color: currentColor;
+}
+
+/*
+    Extract Tailwind CSS components here according to the docs.
+    https: //tailwindcss.com/docs/extracting-components/#extracting-css-components-with-apply
+
+    Be sure to regenerate the CSS after modifying this file in order to see your changes.
+
+    Generate CSS directly:
+    $ npm run css:dev
+
+    Or run as part of dev mode:
+    $ npm run dev
+*/
+
+@tailwind utilities;
