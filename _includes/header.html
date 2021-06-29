@@ -1,0 +1,42 @@
+<div class="sticky-nav bg-opacity-30 bg-gray-50 fixed z-50 w-full text-gray-700 border-b lg:px-20 py-4 mb-6">
+  <div x-data="{ open: false }"
+    class="flex flex-col max-w-screen-xl mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
+    <div class="flex flex-row items-center justify-between p-2">
+      <img src="{{ link }}/assets/img/logo.png" class="h-8 w-8 mr-2" alt=""/>
+      {% if page.url == "/" %}
+      <h1 class="text-lg font-bold tracking-tighter lg:text-lg block md:hidden lg:block">
+        {{ site.title }}
+      </h1>
+      {% else %}
+      <a href="/" class="focus:outline-none">
+        <h1 class="text-lg font-bold tracking-tighter lg:text-lg block md:hidden lg:block">
+          {{ site.title }}
+      </h1>
+      </a>
+      {% endif %}
+
+      <button class="rounded-xl md:hidden focus:outline-none fill-current text-gray-700" @click="open = !open">
+        <svg class="text-gray-700 stroke-current" role="img" xmlns="http://www.w3.org/2000/svg" width="48px"
+          height="48px" viewBox="0 0 24 24" aria-labelledby="statsIconTitle" stroke-width="2" stroke-linecap="square"
+          stroke-linejoin="miter" fill="none" color="#2329D6">
+          <title id="statsIconTitle">Stats</title>
+          <path x-show="open"
+            d="M6.34314575 6.34314575L17.6568542 17.6568542M6.34314575 17.6568542L17.6568542 6.34314575" />
+          <path x-show="!open" d="M6 7L15 7M6 12L18 12M6 17L12 17" />
+        </svg>
+      </button>
+    </div>
+    <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow hidden px-5 pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
+
+      {% for my_page in site.pages %}
+        {% if my_page.featured %}
+      <a class="font-bold text-sm inline-flex items-center p-3 text-black transition duration-500 ease-in-out transform rounded-xl md:w-auto focus:outline-none hover:text-blue-500 hover:text-bold"
+        href="{{ my_page.url | prepend: site.baseurl }}">
+        {{ my_page.title }}
+      </a>
+      {% endif %}
+      {% endfor %}
+
+    </nav>
+  </div>
+</div>

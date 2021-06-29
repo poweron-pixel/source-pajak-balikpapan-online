@@ -1,0 +1,67 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Balikpapan Tax
+description: Layanan Perpajakan, Akuntansi, Pendampingan Pajak, Konsultasi Perpajakan
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pajakbalikpapan.online/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Set social IDs here
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: blue
+
+# Build settings
+markdown: kramdown
+
+collections: 
+  posts:
+    permalink: /:categories/:title
+
+
+plugins:
+  - jekyll-seo-tag 
+  
+#- jekyll-feed
+#  theme: jekyll-swiss
+repository: pajakbalikpapan/pajakbalikpapan.github.io
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - gitpush.sh
+  - tailwind.config.js
+  - postcss.config.js
+  - package.json
+  - deploy.sh
+  - direktorifull.html
+  - bin

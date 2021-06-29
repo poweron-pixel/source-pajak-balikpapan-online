@@ -1,0 +1,4 @@
+[submodule "_site"]
+	path = _site
+	url = https://github.com/pajakbalikpapan/pajakbalikpapan.github.io.git
+	branch = main

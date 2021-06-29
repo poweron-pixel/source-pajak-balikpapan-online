@@ -1,0 +1,176 @@
+---
+layout: default
+---
+
+
+<section class="">
+  <div class="container px-8 py-24 mx-auto lg:px-4">
+    <div class="flex flex-col w-full mb-12 text-left sm:text-center">
+      <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase">layanan Pajak</h2>
+      <h1 class="mb-6 text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tighter">
+        Semua layanan <span
+          class="bg-clip-text bg-gradient-to-r from-yellow-500 via-pink-500 to-red-500 text-transparent">perpajakan</span>,
+        <br>kini ada di satu tempat.
+      </h1>
+      <p class="mx-auto text-base font-medium leading-relaxed text-gray-700 lg:w-2/3">kami hadir untuk membantu
+        anda.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- Direktori -->
+{% comment %}
+<section class="select-none pb-10 border-t">
+  <div class="new_bg m-16 py-24 mx-auto max-w-3xl rounded-0 md:rounded-2xl px-4">
+      <div class="flex justify-center px-4 sm:px-6 lg:px-8 mb-6">
+        <div class="text-center">
+          <p data-aos="fade-up" data-aos-easing="linear" data-aos-duration="300"
+            class="mt-2 text-4xl leading-8 font-medium tracking-tight sm:text-6xl">
+            Direktori Layanan Pajak
+          </p>
+          <p data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="400"
+            class="max-w-2xl mt-4 leading-6 tracking-tight ">
+            Beragam jenis layanan perpajakan yang dapat kami berikan dalam kategori
+            berikut
+          </p>
+        </div>
+      </div>
+      {% for cat in site.kup %}
+      {% assign mod = forloop.index | modulo: 2 %}
+      {% if mod == 0 %}
+      <h2 data-aos="fade-left" data-aos-easing="linear" data-aos-duration="300"
+        class="text-center px-4 font-display text-2xl font-semibold sm:text-3xl lg:max-w-4xl lg:text-4xl lg:mx-auto py-6">
+        {{ cat }}
+      </h2>
+      {% else %}
+      <h2 data-aos="fade-right" data-aos-easing="linear" data-aos-duration="400"
+        class="text-center px-4 font-display text-2xl font-semibold  sm:text-3xl lg:max-w-4xl lg:text-4xl lg:mx-auto py-6">
+        {{ cat }}
+      </h2>
+      {% endif %}
+      {% endfor %}
+  </div>
+</section> 
+{% endcomment %}
+
+<!-- This example requires Tailwind CSS v2.0+ -->
+
+<section class="py-12 border-t select-none">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 ">
+    <div class="text-center grid grid-cols-1 justify-items-center" data-aos="fade-down">
+      
+      <p class="mt-2  text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tighter">
+        Manfaat pendampingan pajak
+      </p>
+      <p class="max-w-2xl mt-4 leading-6 tracking-tight">
+        Berbekal pengalaman dalam bidang Perpajakan Kami siap memberikan solusi atas berbagai permasalahan perpajakan
+        Perusahaan anda.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="text-gray-700 body-font">
+  <div class="max-w-4xl px-8 mx-auto py-36 lg:px-4">
+    <div class="flex flex-col w-full mb-12 text-left select-none ">
+      {% for manfaat in site.data.manfaat %}
+      <h1 data-aos="fade-left" class="mb-16 text-3xl sm:text-5xl md:text-6xl select-none font-semibold tracking-tighter text-black">
+        {{ manfaat.desc }}
+      </h1>
+      {% endfor %}
+    </div>
+</section>
+
+
+
+<!------- manfaat ------->
+{% comment %}
+<section class="body-font">
+  <div class="container flex flex-col items-center px-5 py-16 mx-auto lg:px-20 lg:py-24 md:flex-row">
+    <div class="w-5/6 mb-10 lg:max-w-lg lg:w-full md:w-1/2 md:mb-0 shadow-xl">
+      <img class="object-cover object-center rounded" alt="hero" src="{{ link }}/assets/img/aspek-pajak.webp">
+    </div>
+    <div
+      class="flex flex-col items-center text-center lg:flex-grow select-none md:w-1/2 lg:pl-24 md:pl-16 md:items-start md:text-left">
+      <div class="flex flex-wrap -mx-4 -mt-4 -mb-10 sm:-m-4 ">
+        {% for manfaat in site.data.manfaat %}
+        <div data-aos="fade-left"
+          class="flex flex-col items-center w-full select-none p-4 mb-6 text-center md:mb-0 lg:text-left lg:items-start">
+          <div class="flex-grow">
+            <h1 class="mb-4 text-xl font-bold tracking-tighter text-center text-black lg:text-left lg:text-2xl">
+              {{ manfaat.title }}
+            </h1>
+            <p class="text-sm leading-relaxed">
+              {{ manfaat.desc }}
+            </p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+{% endcomment %}
+
+<section class="bg-gray-100">
+  <div class="max-w-4xl px-8 py-48 mx-auto lg:px-4">
+    <div class="flex flex-col w-full mb-12 text-left md:text-center">
+      <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase title-font hidden">
+
+      </h2>
+      <img src="/assets/img/package.png" width="64px" height="64px" class="mb-6 hidden md:block md:mx-auto">
+      <h1 class="mb-6 text-4xl sm:text-5xl md:text-7xl font-bold text-black">
+        Layanan Unggulan
+      </h1>
+      <p class="text-base font-medium leading-relaxed text-black">
+        ada beberapa layanan unggulan kami <br>untuk kepatuhan perpajakan anda
+      </p>
+      <a class="mt-8 font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-600 ">
+        Hubungi Kami via Telepon/Telegram/WA 0815-21777-255 →
+      </a>
+    </div>
+
+</section>
+
+{% include featured.html categories="featured" tag="registrasi" title="Registrasi"%}
+{% include featured.html categories="featured" tag="spt-tahunan" title="SPT Tahunan PPh"%}
+
+{% for post in site.categories.harga %}
+{% if post.title == "All In One" %}
+<section class="my-24" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="max-w-4xl mx-auto px-8 py-16 lg:px-4 mt-10 bg-blue-50 rounded-xl">
+    <div class="flex flex-col w-full md:w-5/6 mx-auto text-left">
+      <h2 class="mb-1 text-xs font-semibold tracking-widest text-blue-600 uppercase title-font">{{ page.direktori
+        }}</h2>
+      <h1 itemprop="headline"
+        class="mb-6 font-semibold text-5xl sm:text-6xl md:text-7xl lg:text-6xl tracking-tighter text-blue-800  title-font">
+        Paket All In One
+      </h1>
+      <div class="prose prose-sm text-black sm:prose max-w-none" itemprop="articleBody">{{ post.content }}</div>
+      <div class="flex">
+        <p class="mt-24 text-sm text-gray-600 md:ml-6 md:mt-2 text-left">
+          Hubungi Kami
+          <br class="hidden lg:block">
+          <a class="inline-flex items-center font-semibold text-blue-700 md:mb-2 lg:mb-0 hover:text-blue-600">
+            via Telepon/Telegram/WA 0815-21777-255 →
+          </a>
+        </p>
+      </div>
+
+    </div>
+</section>
+{% endif %}
+{% endfor %}
+
+<div class="bg-gray-50 border-t border-gray-100 mt-24">
+  <div class="max-w-4xl mx-auto px-8 py-4 lg:px-4">
+    {% for sup in page.sup %}
+    <div class="text-xs text-gray-400">
+      {{ page.sup }}
+    </div>
+    {% endfor %}
+  </div>
+</div>

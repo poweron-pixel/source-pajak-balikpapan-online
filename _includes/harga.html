@@ -1,0 +1,81 @@
+<section class="body-font py-16" id="pricing">
+    <div class="max-w-6xl flex flex-wrap px-10 pt-12 mx-auto lg:px-20 lg:pt-4">
+        <div class="flex flex-wrap w-full mx-auto transition duration-800 ease-in-out">
+            <div class="w-full lg:p-4 lg:w-2/4 ">
+                <div class="relative flex flex-col h-full overflow-hidden lg:p-6">
+                    <h1 class="flex items-center pb-4 my-6 text-4xl font-black leading-none lg:text-5xl">
+                        <span
+                            class="text-transparent animate-pulse delay-200 ease-in-out bg-clip-text bg-gradient-to-r from-yellow-400 to-yellow-600">
+                            Konsultasikan pajak anda bersama kami
+                        </span>
+                    </h1>
+                    <h1 class="flex items-center pb-6 text-4xl leading-none lg:text-5xl ">
+                        <span>
+                            <span class="font-semibold">
+                                Gratis
+                            </span>
+                        </span>
+                    </h1>
+                    <p class="flex items-center mb-2 text-lg ">
+                        <a href="https://fb.com/book/balikpapantaxcenter/" target="_blank">
+                            <button
+                                class="flex items-center w-full px-4 py-2 mt-auto mb-6 font-bold transition duration-500 ease-in-out transform border-2 rounded-full text-black hover:text-white hover:bg-black hover:border-2 hover:border-yellow-500 focus:outline-none">
+                                Janji temu via Facebook
+                                <svg xmlns="http://www.w3.org/2000/svg" class="ml-auto" width="20" height="20"
+                                    viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
+                                    stroke-linecap="round" stroke-linejoin="round">
+                                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                                    <line x1="13" y1="18" x2="19" y2="12"></line>
+                                    <line x1="13" y1="6" x2="19" y2="12"></line>
+                                </svg>
+                            </button>
+                        </a>
+                    </p>
+                    <p class="flex items-center mb-2 text-lg ">
+                        <span>
+                            <span class="font-semibold">
+                                hubungi kami
+                            </span>
+                            via telepon, Whatapps atau telegram di 0815-21777-255
+                        </span>
+
+                    </p>
+                </div>
+            </div>
+            {% for harga in site.categories.harga %}
+            <div data-aos="fade-up" class="w-full mt-2 lg:p-4 lg:w-1/4 md:w-3/6 lg:mt-0 md:pr-2 lg:pr-0">
+                <div
+                    class="bg-yellow-400 relative flex flex-col h-full p-6 overflow-hidden transition duration-500 ease-in-out shadow-xl rounded-xl hover:shadow-2xl">
+                    
+                    <h2 class="mb-4 text-sm text-center h-8">
+                       {% if harga.featured %}DISARANKAN{% endif %}
+                    </h2>
+                    
+                    <h1 class="pb-4 text-2xl font-black leading-none h-8 text-center">
+                        <span> {{ harga.title }} </span>
+                    </h1>
+                    <div class="inline-flex w-full h-1 mx-auto my-4 bg-black rounded-full"></div>
+
+                    <div class="h-44">
+                        {% for desc in harga.keyword %}
+                        <p class="flex mb-2 text-sm">
+                            <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 rounded-full text-xs">
+                                <svg class="stroke-current text-black" role="img" xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" aria-labelledby="chevronRightIconTitle" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter" fill="none"> <title id="chevronRightIconTitle">Chevron Right</title> <polyline points="10 6 16 12 10 18 10 18"/> </svg>
+                            </span> {{ desc }}
+                        </p>
+                         {% endfor %}
+                    </div>
+                    
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        <button class="flex items-center w-full px-4 py-2 mt-auto mb-6 font-bold border-2 rounded-full text-black hover:text-white hover:bg-black hover:border-2 focus:outline-none">
+                             <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current text-black" width="20" height="20" viewBox="0 0 24 24" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="5" y1="12" x2="19" y2="12"></line><line x1="13" y1="18" x2="19" y2="12"></line><line x1="13" y1="6" x2="19" y2="12"></line></svg>
+                        </button>
+                    </a>
+                    <div class="text-xs">{{ harga.summary }}</div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
